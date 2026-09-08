@@ -45,7 +45,7 @@ This repository provides a ground-up implementation of the architecture, along w
 
 ## Usage
 
-Run the inference script to evaluate an image and output top predicted ImageNet-1K classes:
+Run the inference script to evaluate an image and output top predicted ImageNet-1K class:
 
 ```bash
 python inference.py
