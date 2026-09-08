@@ -1,0 +1,7 @@
+jax
+flax
+pillow
+requests
+transformers
+torch
+torchvision
